@@ -26,9 +26,9 @@ footer {
     border-top: 1px solid #eaeaea;
     color: $gray-light;
 a {
-    color: #555;
+    color: $gray;
     &:hover {
-        color: #222;
+        color: $gray-darker;
     }
 }
 small {
